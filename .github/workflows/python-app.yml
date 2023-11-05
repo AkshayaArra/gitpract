@@ -25,5 +25,5 @@ jobs:
         python-version: "3.10"
     - name: python application
       run: |
-        python calc.py
+        python gitdev.py
     
